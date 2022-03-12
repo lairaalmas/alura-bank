@@ -25,7 +25,7 @@
 
 **Obs.:** o script *server* está definido no arquivo *package.json*.
 
-## Gerenciando compilador:
+## Conhecendo os diretórios:
 
 #### 1) `./app/`contém arquivos Typescript
 
@@ -40,7 +40,7 @@
 
 - `/dist/js/`
 
-## Arquivos notáveis
+## Gerenciando compilador typescript
 
 #### 1) `tsconfig.json`: 
 
@@ -74,7 +74,7 @@ Com o `tsconfig.json` definido, é preciso adicionar o script para compilar ao `
 
 **Obs.:** `tsc`significa *typescript compiler*
 
-#### Outros scripts:
+## Outros scripts:
 
 
 - `npm run server`abre *live serve* no navegador
@@ -83,6 +83,4 @@ Com o `tsconfig.json` definido, é preciso adicionar o script para compilar ao `
 
 - `npm run watch` recompila o codigo sempre que ha modificação
 
-- **Principal:** 
-
-  - `npm run start` (junção do `watch` com `server`)
+- **[Principal]** `npm run start` (junção do `watch` com `server`)
