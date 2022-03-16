@@ -1,4 +1,4 @@
-# Alurabank
+# Alura Bank
 
 ### Projeto desenvolvido durante o curso [TypeScript parte 1: Evoluindo seu JavaScript](https://cursos.alura.com.br/course/typescript-evoluindo-javascript) da Alura:
 
